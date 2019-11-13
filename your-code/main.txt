@@ -1,1 +1,6 @@
+'''
+L.S. Very nice! Both assignments look quite good! Be careful with displaying things that do not show a considerable effect such as
+is the case in sheets 2 and 6, where some trends are shown, but others simply disappear in the plot.
+'''
+
 https://public.tableau.com/profile/anete2427#!/vizhome/Lab-intro/Sheet2
